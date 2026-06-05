@@ -26,13 +26,13 @@ Two parts were tested. For each: the original STEP model, an engineer-drafted re
 
 | 3D Model | Engineer Drawing | System Output |
 |----------|-----------------|---------------|
-| `docs/Part1/3D-1.png` | `docs/Part1/Actual2D-1.png` | `docs/Part1/SysGen2D-1.png` |
+| ![3D Model](docs/Part1/3D-1.png) | ![Engineer Drawing](docs/Part1/Actual2D-1.png) | ![System Output](docs/Part1/SysGen2D-1.png) |
 
 ### Part 2
 
 | 3D Model | Engineer Drawing | System Output |
 |----------|-----------------|---------------|
-| `docs/Part2/3D-2.png` | `docs/Part2/Actual2D-2.png` | `docs/Part2/SysGen2D-2.png` |
+| ![3D Model](docs/Part2/3D-2.png) | ![Engineer Drawing](docs/Part2/Actual2D-2.png) | ![System Output](docs/Part2/SysGen2D-2.png) |
 
 > DXF files were visualised using [ShareCAD.org](https://sharecad.org) — an open-source DXF viewer — to produce the output images above.
 
