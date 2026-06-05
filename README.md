@@ -26,13 +26,13 @@ Two parts were tested. For each: the original STEP model, an engineer-drafted re
 
 | 3D Model | Engineer Drawing | System Output |
 |----------|-----------------|---------------|
-| `C:\Users\msira\Desktop\geminiAI\docs\Part1\3D-1.png` | `C:\Users\msira\Desktop\geminiAI\docs\Part1\Actual2D-1.png` | `C:\Users\msira\Desktop\geminiAI\docs\Part1\SysGen2D-1.pdf` |
+| `docs\Part1\3D-1.png` | `docs\Part1\Actual2D-1.png` | `docs\Part1\SysGen2D-1.png` |
 
 ### Part 2
 
 | 3D Model | Engineer Drawing | System Output |
 |----------|-----------------|---------------|
-| `C:\Users\msira\Desktop\geminiAI\docs\Part2\3D-2.png` | `C:\Users\msira\Desktop\geminiAI\docs\Part2\Actual2D-2.png` | `C:\Users\msira\Desktop\geminiAI\docs\Part2\SysGen2D-2.pdf` |
+| `docs\Part2\3D-2.png` | `docs\Part2\Actual2D-2.png` | `docs\Part2\SysGen2D-2.pdf` |
 
 > DXF files were visualised using [ShareCAD.org](https://sharecad.org) — an open-source DXF viewer — to produce the output images above.
 
